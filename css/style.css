@@ -1,0 +1,33 @@
+body{
+    padding-top:5%;
+    background-color: bisque;
+}
+.card{
+    width: 40%;
+    margin:auto;
+    height:calc( 80vh)
+}
+.cardTitle{
+    text-align: center;
+}
+
+
+.add_button{
+    margin: auto;
+    display: block;
+    
+}
+.list-item{
+    width: 100%; 
+    margin: auto;
+    padding-top: 15px;
+    
+}
+.each-item{
+    margin-top: 10px;
+    background-color: bisque;
+}
+.trash-can{
+    float: right;
+    margin-top: 5px;
+}
